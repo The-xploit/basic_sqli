@@ -35,7 +35,7 @@ def print_banner():
   ░ ░▒  ░ ░ ░ ▒░  ░ ░ ░ ▒  ░ ▒ ░
   ░  ░  ░     ░   ░   ░ ░    ▒ ░
         ░      ░        ░  ░ ░  
-      Advanced SQL Injection Scanner - Python tool
+      Basic SQL Injection Scanner - Python tool
     ''')
 
 # Function to send a GET request
